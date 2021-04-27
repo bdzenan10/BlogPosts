@@ -1,0 +1,1 @@
+To run the .NET appliation use Visual Studio 2019 to opet BlogPosts.sln and execute it on the API option. Swagger is integrated.
